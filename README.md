@@ -15,7 +15,7 @@ Technologies Used:
 
 Usage:
 
-1. Clone the repository: git clone https://github.com/your-username/portfolio.git
+1. Clone the repository: git clone https://nithya2209balu.github.io/portfolic-simple-website/index.html
 2. Open index.html in your web browser to view the portfolio website locally.
 3. Navigate between the home and contact pages using the navigation links.
 

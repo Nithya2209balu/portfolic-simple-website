@@ -3,7 +3,7 @@
 
 Welcome to Portfolio Website! This is a simple two-page site that including a homepage and a contact page,It was created using HTML and basic CSS provide a clean and straightforward user experience.
 
-Pages:
+page:
 
 • Home: Overview of my portfolio, showcasing projects and skills.
 • Contact: Information on how to get in touch with me.
